@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O que penso sobre algotrading?
+tags: [algotrading]
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/mt5-indicadores.png)
